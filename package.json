@@ -19,7 +19,9 @@
   },
   "dependencies": {
     "@types/es6-promise": "^3.3.0",
+    "bluebird": "^3.5.2",
     "es6-promise": "^4.2.5",
+    "es6-shim": "^0.35.3",
     "moment": "^2.22.2",
     "rxjs": "^6.3.3"
   }
