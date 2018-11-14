@@ -1,0 +1,4 @@
+accessible,public,protect,private
+class,yes,yes,yes
+class children,yes,yes,no
+class instances,yes,no,no
